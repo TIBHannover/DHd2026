@@ -38,8 +38,10 @@ Das Ziel dieses Workshops ist es, Forschenden aus den Digital Humanities neue Me
 - **Dr. Eric Müller-Budack**
   - TIB – Leibniz-Informationszentrum Technik und Naturwissenschaften, Hannover, Deutschland
   - [eric.mueller@tib.eu](mailto:eric.mueller@tib.eu)
-- **Matthias Springstein**
+- **Elias Entrup**
   - L3S Forschungszentrum, Leibniz Universität Hannover, Hannover, Deutschland
+  - [elias.entrup@tib.eu](mailto:elias.entrup@tib.eu)
+- **Matthias Springstein**
   - TIB – Leibniz-Informationszentrum Technik und Naturwissenschaften, Hannover, Deutschland
   - [matthias.springstein@tib.eu](mailto:matthias.springstein@tib.eu)
 - **Prof. Ralph Ewerth**
