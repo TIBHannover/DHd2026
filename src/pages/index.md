@@ -14,7 +14,6 @@
 
 Der Workshop vermittelt Grundlagen und Anwendung hybrider Verfahren zur Analyse audiovisueller Inhalte mit den Open-Source-Tools [**VIAN**](https://github.com/Movie-Analytics/VIAN) und [**TIB-AV-A**](https://service.tib.eu/tibava). Ziel ist es, qualitative, manuelle Annotation und automatisierte Verfahren in methodisch reflektierten Workflows produktiv zu verbinden. Während VIAN als flexibles, disziplinübergreifend nutzbares Annotationstool für die kontextsensitive Erschließung von Film- und Videomaterial entwickelt wurde, erlaubt TIB-AV-A KI-gestützte Segmentierungen und Bild-/Tonanalysen in skalierbaren Datensätzen. Im Workshop werden zentrale Funktionen beider Tools anhand praxisnaher Beispiele vorgestellt, eigene Analyseprojekte erprobt und disziplinspezifische wie interdisziplinäre Anforderungen diskutiert. Dabei stehen sowohl technische Aspekte wie Usability und Interoperabilität als auch epistemologische Fragen im Zentrum – etwa zur erkenntnisleitenden Rolle manueller Annotation. Zielgruppe sind Forschende aus den Digital Humanities und angrenzenden Disziplinen, die mit Bewegtbildmaterial arbeiten. Der Workshop fördert Austausch über Best Practices, methodische Kombinationen und Anforderungen an nachhaltige, offene Infrastrukturen zur digitalen Videoanalyse.
 
-
 ## Programm
 
 | **Uhrzeit** | **Programm** |
