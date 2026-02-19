@@ -12,7 +12,7 @@
 
 ## Ziele des Workshops
 
-Der Workshop vermittelt Grundlagen und Anwendung hybrider Verfahren zur Analyse audiovisueller Inhalte mit den Open-Source-Tools **VIAN** und **TIB-AV-A**. Ziel ist es, qualitative, manuelle Annotation und automatisierte Verfahren in methodisch reflektierten Workflows produktiv zu verbinden. Während VIAN als flexibles, disziplinübergreifend nutzbares Annotationstool für die kontextsensitive Erschließung von Film- und Videomaterial entwickelt wurde, erlaubt TIB-AV-A KI-gestützte Segmentierungen und Bild-/Tonanalysen in skalierbaren Datensätzen. Im Workshop werden zentrale Funktionen beider Tools anhand praxisnaher Beispiele vorgestellt, eigene Analyseprojekte erprobt und disziplinspezifische wie interdisziplinäre Anforderungen diskutiert. Dabei stehen sowohl technische Aspekte wie Usability und Interoperabilität als auch epistemologische Fragen im Zentrum – etwa zur erkenntnisleitenden Rolle manueller Annotation. Zielgruppe sind Forschende aus den Digital Humanities und angrenzenden Disziplinen, die mit Bewegtbildmaterial arbeiten. Der Workshop fördert Austausch über Best Practices, methodische Kombinationen und Anforderungen an nachhaltige, offene Infrastrukturen zur digitalen Videoanalyse.
+Der Workshop vermittelt Grundlagen und Anwendung hybrider Verfahren zur Analyse audiovisueller Inhalte mit den Open-Source-Tools [**VIAN**](https://github.com/Movie-Analytics/VIAN) und [**TIB-AV-A**](https://service.tib.eu/tibava). Ziel ist es, qualitative, manuelle Annotation und automatisierte Verfahren in methodisch reflektierten Workflows produktiv zu verbinden. Während VIAN als flexibles, disziplinübergreifend nutzbares Annotationstool für die kontextsensitive Erschließung von Film- und Videomaterial entwickelt wurde, erlaubt TIB-AV-A KI-gestützte Segmentierungen und Bild-/Tonanalysen in skalierbaren Datensätzen. Im Workshop werden zentrale Funktionen beider Tools anhand praxisnaher Beispiele vorgestellt, eigene Analyseprojekte erprobt und disziplinspezifische wie interdisziplinäre Anforderungen diskutiert. Dabei stehen sowohl technische Aspekte wie Usability und Interoperabilität als auch epistemologische Fragen im Zentrum – etwa zur erkenntnisleitenden Rolle manueller Annotation. Zielgruppe sind Forschende aus den Digital Humanities und angrenzenden Disziplinen, die mit Bewegtbildmaterial arbeiten. Der Workshop fördert Austausch über Best Practices, methodische Kombinationen und Anforderungen an nachhaltige, offene Infrastrukturen zur digitalen Videoanalyse.
 
 
 ## Programm
@@ -46,6 +46,9 @@ Das Material für den Workshop finden sie in diesem [Miro Board](https://miro.co
   - Universität Zürich, Zürich, Schweiz
   - Titularprofessor am Seminar für FilmwissenschaftGfM AG Open Media Studies
   - [simon.spiegel@uzh.ch](mailto:simon.spiegel@uzh.ch)
+- **Joelle Kost**
+  - Zürcher Hochschule der Künste, Zürich, Schweiz
+  - [joelle.kost@zhdk.ch](mailto:joelle.kost@zhdk.ch)
 - **Elias Entrup**
   - L3S Forschungszentrum, Leibniz Universität Hannover, Hannover, Deutschland
   - Doktorand im Bereich Computer Science
@@ -59,6 +62,6 @@ Das Material für den Workshop finden sie in diesem [Miro Board](https://miro.co
   - Leiter der Forschungsgruppe Visual Analytics
   - [eric.mueller@tib.eu](mailto:eric.mueller@tib.eu)
 - **Ralph Ewerth**
-  - L3S Forschungszentrum, Leibniz Universität Hannover, Hannover, Deutschland
-  - TIB – Leibniz-Informationszentrum Technik und Naturwissenschaften, Hannover, Deutschland
-  - [ralph.ewerth@tib.eu](mailto:ralph.ewerth@tib.eu)
+  - Philipps-Universität Marburg & Hessisches Zentrum für Künstliche Intelligenz (hessian.AI)
+  - Professor für multimodale Modellierung und maschinelles Lernen
+  - [ewerth@uni-marburg.de](mailto:ewerth@uni-marburg.de)
