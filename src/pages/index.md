@@ -4,7 +4,7 @@
 <header className="heroBanner">
     <div className="container">
         <h1>
-            DHd2026
+            DHd 2026
         </h1>
         <p className="hero__subtitle">Film- und Videoanalyse mit VIAN & TIB-AV-A - Grundlagen, Anwendung und Schnittstellen</p>
     </div>
@@ -12,39 +12,53 @@
 
 ## Ziele des Workshops
 
-<!-- Wissensgraphen (z.B. [Wikidata](https://wikidata.org)) haben sich in den digitalen Geisteswissenschaften als explizite Form der Wissensorganisation etabliert. Sie ermöglichen es, heterogene Daten und Texte in ein strukturiertes Format zu überführen. Mithilfe neuer Verfahren der automatisierten Wissensextraktion können aus großen Datenmengen Wissensgraphen extrahiert und so neue Explorations- und Nutzungsmöglichkeiten in den Digital Humanities erschlossen werden. Besonders die Qualitäten und Fähigkeiten von Large-Language-Modellen (LLMs), die in den letzten Jahren entwickelt wurden, bieten verbesserte Verfahren mit neuen Ansätzen.
+Der Workshop vermittelt Grundlagen und Anwendung hybrider Verfahren zur Analyse audiovisueller Inhalte mit den Open-Source-Tools **VIAN** und **TIB-AV-A**. Ziel ist es, qualitative, manuelle Annotation und automatisierte Verfahren in methodisch reflektierten Workflows produktiv zu verbinden. Während VIAN als flexibles, disziplinübergreifend nutzbares Annotationstool für die kontextsensitive Erschließung von Film- und Videomaterial entwickelt wurde, erlaubt TIB-AV-A KI-gestützte Segmentierungen und Bild-/Tonanalysen in skalierbaren Datensätzen. Im Workshop werden zentrale Funktionen beider Tools anhand praxisnaher Beispiele vorgestellt, eigene Analyseprojekte erprobt und disziplinspezifische wie interdisziplinäre Anforderungen diskutiert. Dabei stehen sowohl technische Aspekte wie Usability und Interoperabilität als auch epistemologische Fragen im Zentrum – etwa zur erkenntnisleitenden Rolle manueller Annotation. Zielgruppe sind Forschende aus den Digital Humanities und angrenzenden Disziplinen, die mit Bewegtbildmaterial arbeiten. Der Workshop fördert Austausch über Best Practices, methodische Kombinationen und Anforderungen an nachhaltige, offene Infrastrukturen zur digitalen Videoanalyse.
 
-Im interdisziplinären Projekt **[ReflectAI](https://www.digitalesbild.gwi.uni-muenchen.de/reflexionsbasierte-kuenstliche-intelligenz-in-der-kunstgeschichte-erklaerbare-hybride-modelle-fuer-die-bildersuche-und-analyse/)**, gefördert von der [DFG im Schwerpunktprogramm „Das digitale Bild“](https://www.digitalesbild.gwi.uni-muenchen.de/) (Laufzeit: 2023–2026), erforschen Informatiker:innen des L3S Forschungszentrums der Leibniz Universität Hannover und Kunstwissenschaftler:innen der Ludwig-Maximilians-Universität München eine _reflexionsbasierte künstliche Intelligenz in der Kunstgeschichte – erklärbare hybride Modelle für die Bildersuche und -analyse_. Das Projekt verwendet Wissensgraphen, um die Güte und Erklärbarkeit von Bildersuchen in der Kunstgeschichte zu verbessern. Es basiert auf der Bildsuchmaschine **[iART](https://iart.vision)** zur interaktiven Suche von Bildern in kunsthistorischen Datensammlungen, die in einem gemeinsam Vorgängerprojekt (DFG-LIS, Laufzeit: 2019–2021) entwickelt wurde.
-
-Das Ziel dieses Workshops ist es, Forschenden aus den Digital Humanities neue Methoden des maschinellen Lernens aus dem Bereich der Informatik vorzustellen, die für die automatische Anreicherung von domänenspezifischen Wissensgraphen genutzt werden können. Dabei werden neue Ansätze unter Verwendung großer Sprachmodelle vorgestellt. Perspektivisch wird auch auf konkrete Anwendungen in hybriden KI-Modellen eingegangen und auf mögliche Mehrwerte von Wissensgraphen für Fragestellungen der Explainable AI (XAI) hingewiesen. -->
 
 ## Programm
 
 ### Dienstag, 24. Februar 2025
 
-<!-- - **14:00 – 14:30** Begrüßung der Teilnehmenden und Vorstellung von ReflectAI und iART
-- **14:30 – 15:00** Einführung in Wissensgraphen” (Ralf Krestel)
-- **15:00 – 15:30** Pause (30 min)
-- **15:30 – 16:00** Vorstellung der Annotationsrichtlinien von ReflectAI und Beispiele für manuelle Triplet-Extraktion.
-- **16:00 – 17:00** Erstellen von Ontologien und extrahieren von Triples aus Texten - manuell oder mithilfe eines unterstützenden Tools wie Inception
-- **17:00 – 17:30** Einrichten der gemeinsamen Arbeitsumgebung in Google Colab -->
+- **09:00 – 09:15** Kick-Off: Einführung und Kennenlernrunde mit Abfrage der Erwartungen
+- **09:15 – 10:00** Allgemeine Einführung in VIAN und filmwissenschaftliche Bezüge
+- **10:00 – 10:30** Kaffeepause
+- **10:30 – 11:30** VIAN Hands-on mit eigenen Videodaten
+- **11:30 – 12:00** Feedback
+- **12:00 – 12:30** Datenaustausch und Interoperabilität
+- **12:30 – 14:00** Mittagspause
+- **14:00 - 14:30** Vorstellung Integration von Features und Methoden anderer Tools 
+- **14:30 - 15:00** Hands-On
+- **15:00 - 15:30** Kaffeepause
+- **15:30 - 16:30** Fortsetzung Hands-on und Korpusanalyse 
+- **16:30 - 17:00** Feedback und Schlussrunde
 
 ## Material
 
-<!-- Das Material für den Workshop inklusive der Vortragsfolien, Texten für die Annotation und interaktiven Tools finden sie [hier](https://tibhannover.github.io/ReflectAI-DHd2025/docs/Workshop%20DHd25/beispieltexte). -->
+Das Material für den Workshop finden sie in diesem [Miro Board](https://miro.com/app/board/uXjVGD-wHtw=/?share_link_id=201230528262).
 
 ## Organisatoren
 
-- **Dr. Eric Müller-Budack**
-  - TIB – Leibniz-Informationszentrum Technik und Naturwissenschaften, Hannover, Deutschland
-  - [eric.mueller@tib.eu](mailto:eric.mueller@tib.eu)
+- **Josephine Diecke**
+  - Universität Zürich, Zürich, Schweiz
+  - Assistenzprofessorin am Seminar für FilmwissenschaftDHd AG Film & Video
+  - [josephine.diecke@uzh.ch](mailto:josephine.diecke@uzh.ch)
+- **Simon Spiegel**
+  - Universität Zürich, Zürich, Schweiz
+  - Titularprofessor am Seminar für FilmwissenschaftGfM AG Open Media Studies
+  - [simon.spiegel@uzh.ch](mailto:simon.spiegel@uzh.ch)
 - **Elias Entrup**
   - L3S Forschungszentrum, Leibniz Universität Hannover, Hannover, Deutschland
+  - Doktorand im Bereich Computer Science
   - [elias.entrup@tib.eu](mailto:elias.entrup@tib.eu)
 - **Matthias Springstein**
   - TIB – Leibniz-Informationszentrum Technik und Naturwissenschaften, Hannover, Deutschland
+  - Doktorand im Bereich Computer Science
   - [matthias.springstein@tib.eu](mailto:matthias.springstein@tib.eu)
-- **Prof. Ralph Ewerth**
+- **Eric Müller-Budack**
+  - TIB – Leibniz-Informationszentrum Technik und Naturwissenschaften, Hannover, Deutschland
+  - Leiter der Forschungsgruppe Visual Analytics
+  - [eric.mueller@tib.eu](mailto:eric.mueller@tib.eu)
+- **Ralph Ewerth**
   - L3S Forschungszentrum, Leibniz Universität Hannover, Hannover, Deutschland
   - TIB – Leibniz-Informationszentrum Technik und Naturwissenschaften, Hannover, Deutschland
   - [ralph.ewerth@tib.eu](mailto:ralph.ewerth@tib.eu)

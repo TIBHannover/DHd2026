@@ -10,20 +10,20 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ReflectAI-DHd2025',
-  tagline: 'Wissensgraphen und große Sprachmodelle in den Digital Humanities',
+  title: 'DHd 2026 Workshop',
+  tagline: 'Film- und Videoanalyse mit VIAN & TIB-AV-A – Grundlagen, Anwendungen und Schnittstellen',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://tibhannover.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/ReflectAI-DHd2025/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'tibhannover', // Usually your GitHub org/user name.
-  projectName: 'ReflectAI-DHd2025', // Usually your repo name.
+  projectName: 'DHd2026', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -76,7 +76,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'ReflectAI-DHd2025',
+        title: "DHd'26: Film- und Videoanalyse",
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
