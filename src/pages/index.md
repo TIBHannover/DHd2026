@@ -17,8 +17,8 @@ Der Workshop vermittelt Grundlagen und Anwendung hybrider Verfahren zur Analyse 
 
 ## Programm
 
-|   |   |
-|---|---|
+| **Uhrzeit** | **Programm** |
+|-------------|--------------|
 | **09:00 – 09:15** | Kick-Off: Einführung und Kennenlernrunde mit Abfrage der Erwartungen |
 | **09:15 – 10:00** | Allgemeine Einführung in VIAN und filmwissenschaftliche Bezüge |
 | **10:00 – 10:30** | Kaffeepause |
