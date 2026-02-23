@@ -55,9 +55,6 @@ Das Material für den Workshop finden sie in diesem [Miro Board](https://miro.co
   - Universität Zürich, Zürich, Schweiz
   - Titularprofessor am Seminar für FilmwissenschaftGfM AG Open Media Studies
   - [simon.spiegel@uzh.ch](mailto:simon.spiegel@uzh.ch)
-- **Joelle Kost**
-  - Zürcher Hochschule der Künste, Zürich, Schweiz
-  - [joelle.kost@zhdk.ch](mailto:joelle.kost@zhdk.ch)
 - **Elias Entrup**
   - L3S Forschungszentrum, Leibniz Universität Hannover, Hannover, Deutschland
   - Doktorand im Bereich Computer Science
@@ -70,7 +67,3 @@ Das Material für den Workshop finden sie in diesem [Miro Board](https://miro.co
   - TIB – Leibniz-Informationszentrum Technik und Naturwissenschaften, Hannover, Deutschland
   - Leiter der Forschungsgruppe Visual Analytics
   - [eric.mueller@tib.eu](mailto:eric.mueller@tib.eu)
-- **Ralph Ewerth**
-  - Philipps-Universität Marburg & Hessisches Zentrum für Künstliche Intelligenz (hessian.AI)
-  - Professor für multimodale Modellierung und maschinelles Lernen
-  - [ewerth@uni-marburg.de](mailto:ewerth@uni-marburg.de)
