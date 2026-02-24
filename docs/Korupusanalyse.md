@@ -8,8 +8,8 @@ Google Colab (Google Colaboratory) ist eine cloudbasierte Entwicklungsumgebung f
 
 ## Vorbereitete Nootbooks für die Analyse von Filmen
 
-[Einzelfilm Analyse](https://colab.research.google.com/github/TIBHannover/DHd2026/blob/main/notebooks/stat_single.ipynb)
-[Corpus Analyse](https://colab.research.google.com/github/TIBHannover/DHd2026/blob/main/notebooks/stat_single.ipynb)
+- [Einzelfilm Analyse](https://colab.research.google.com/github/TIBHannover/DHd2026/blob/main/notebooks/stat_single.ipynb)
+- [Corpus Analyse](https://colab.research.google.com/github/TIBHannover/DHd2026/blob/main/notebooks/stat_single.ipynb)
 
 ## Datensätze
 
