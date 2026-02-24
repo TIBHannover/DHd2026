@@ -6,6 +6,16 @@ Google Colab (Google Colaboratory) ist eine cloudbasierte Entwicklungsumgebung f
 
 **Für die Nutzung ist ein Google Account erforderlich**
 
+## Jupyter Notebooks
+
+Jupyter Notebooks können lokal auf den eigenen Rechner laufen, dabei wird für die Installation [uv](https://docs.astral.sh/uv/) genutzt.
+
+```
+git clone https://github.com/TIBHannover/DHd2026.git
+cd DHd2026/notebooks
+uv run jupyter lab
+```
+
 ## Vorbereitete Nootbooks für die Analyse von Filmen
 
 - [Einzelfilm Analyse](https://colab.research.google.com/github/TIBHannover/DHd2026/blob/main/notebooks/stat_single.ipynb)
