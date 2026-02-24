@@ -34,9 +34,9 @@ Der Workshop vermittelt Grundlagen und Anwendung hybrider Verfahren zur Analyse 
 | **12:00 – 12:30** | Datenaustausch und Interoperabilität                                 |
 | **12:30 – 14:00** | Mittagspause                                                         |
 | **14:00 – 14:30** | Vorstellung Integration von Features und Methoden anderer Tools      |
-| **14:30 – 15:00** | Hands-On                                                             |
-| **15:00 – 15:30** | Kaffeepause                                                          |
-| **15:30 – 16:30** | Fortsetzung Hands-on und Korpusanalyse                               |
+| **14:30 – 15:30** | Hands-On und Korpusanalyse                                           |
+| **15:30 – 16:00** | Kaffeepause                                                          |
+| **16:00 – 16:30** | Fortsetzung Hands-on und Korpusanalyse                               |
 | **16:30 – 17:00** | Feedback und Schlussrunde                                            |
 
 ## Material
