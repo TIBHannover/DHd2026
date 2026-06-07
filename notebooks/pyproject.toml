@@ -11,6 +11,8 @@ dependencies = [
     "jupyter>=1.1.1",
     "matplotlib>=3.10.8",
     "msgpack>=1.1.2",
+    "pandas>=3.0.3",
+    "scipy>=1.17.1",
     "tibava-data==0.1.1",
     "torch>=2.10.0",
     "valkey>=6.1.1",
